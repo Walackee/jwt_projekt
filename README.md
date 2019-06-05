@@ -1,4 +1,4 @@
-# tesztsorozat
+# jwt_projekt
 
 ## Project setup
 ```

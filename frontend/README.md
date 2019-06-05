@@ -1,4 +1,4 @@
-# jwt_projekt
+# frontend
 
 ## Project setup
 ```
